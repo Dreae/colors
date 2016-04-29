@@ -3,7 +3,7 @@ Simple go ANSI colors library
 
 # Usage
 
-Simply wrap in a call to the function for the desired color:
+Simply wrap a string in a call to the function for the desired color:
 
 ```Go
 greenText := colors.Green("This is green!")
